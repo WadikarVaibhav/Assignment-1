@@ -12,3 +12,9 @@
  2. Understanding Git for version control
  3. Embedding basic html to visualize web pages
  
+ # Instructor
+ 1. Prof. Zak Ruvalcaba
+ 
+ # Author
+ 1. Vaibhav Wadikar
+ 
